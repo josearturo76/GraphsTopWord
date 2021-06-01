@@ -1,0 +1,82 @@
+﻿@model GraphsTopWord.Models.ReadURL
+<div class="row">
+    <div class="panel-heading">
+        <div class="col-md-8  custom-heading3">
+            <h3>
+                <i class="fa fa-pie-chart"></i>
+                <span>TOP 10 most used words on Websites</span>
+            </h3>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="box box-primary">
+        <div class="nav-main nav-sprite">
+
+            @using (Html.BeginForm("TopWordsResults", "GraphData", FormMethod.Post)) //"TopWordsResults", "GraphData", FormMethod.Post
+            {
+                <div class="navbar-left">
+                    Enter a URL:
+                    <span>@Html.TextBoxFor(x => x.EnterURL)</span>
+                </div>
+                <div class="navbar-right">
+                    @*<input class="active btn btn-primary" type="submit" , onclick="replaceContentsOfDiv(this.id)" id="_ColumnChart" value="Column Chart" />*@
+                    <button class="active btn btn-primary" type="button" , onclick="replaceContentsOfDiv(this.id)" id="_ColumnChart">Column Chart</button>
+                    <button class="active btn btn-danger" type="button" , onclick="replaceContentsOfDiv(this.id)" id="_PieChart">Pie Chart</button>
+                    <button class="active btn btn-warning" type="button" , onclick="replaceContentsOfDiv(this.id)" id="_LineChart">Line Chart</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<div><h3><strong>@TempData["Message"]</strong></h3></div>
+<div class="row">
+    <div id="PartialView"></div>
+</div>
+
+<script>
+
+    function replaceContentsOfDiv(partialViewToInsert)
+    {
+        var textUrl = $('#EnterURL').val();
+        if (partialViewToInsert == "_ColumnChart") {
+            $.ajax({
+                url: '@Url.Action("getColumnChart", "GraphData")',
+                data: { 'EnterURL': textUrl },
+                type: "POST",
+                success: function (data) {
+                    $('#PartialView').html(data);
+                },
+                error: function () {
+                    $("#PartialView").html("ERROR");
+                }
+            });
+        } else if (partialViewToInsert == "_PieChart")
+        {
+            $.ajax({
+                url: '@Url.Action("getPieChart", "GraphData")',
+                data: { 'EnterURL': textUrl },
+                type: "POST",
+                success: function (data) {
+                    $('#PartialView').html(data);
+                },
+                error: function () {
+                    $("#PartialView").html("ERROR");
+                }
+            });
+        } else if (partialViewToInsert == "_LineChart")
+        {
+            $.ajax({
+                url: '@Url.Action("getLineChart", "GraphData")',
+                data: { 'EnterURL': textUrl },
+                type: "POST",
+                success: function (data) {
+                    $('#PartialView').html(data);
+                },
+                error: function () {
+                    $("#PartialView").html("ERROR");
+                }
+            });
+        }
+    }
+</script>

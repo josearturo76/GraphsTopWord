@@ -1,0 +1,111 @@
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\codemode-youtube.dll.config
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\codemode-youtube.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\codemode-youtube.pdb
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Antlr3.Runtime.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\EntityFramework.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\EntityFramework.SqlServer.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.Google.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Web.Infrastructure.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Newtonsoft.Json.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Owin.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.Helpers.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.Mvc.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.Optimization.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.Razor.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.WebPages.Deployment.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.WebPages.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.WebPages.Razor.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\WebGrease.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Newtonsoft.Json.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.Helpers.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.Mvc.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.Optimization.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.Razor.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.WebPages.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.WebPages.Deployment.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\System.Web.WebPages.Razor.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Antlr3.Runtime.pdb
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\EntityFramework.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\EntityFramework.SqlServer.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.Google.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\obj\Debug\GoogleChartsUtilization.csprojResolveAssemblyReference.cache
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\obj\Debug\codemode-youtube.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\DataVisualization\obj\Debug\codemode-youtube.pdb
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\codemode-youtube.dll.config
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\codemode-youtube.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\codemode-youtube.pdb
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Antlr3.Runtime.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\EntityFramework.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\EntityFramework.SqlServer.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.Google.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Newtonsoft.Json.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Owin.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.Helpers.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.Mvc.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.Optimization.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.Razor.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.WebPages.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.WebPages.Razor.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\WebGrease.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Newtonsoft.Json.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.Helpers.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.Mvc.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.Optimization.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.Razor.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.WebPages.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\System.Web.WebPages.Razor.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Antlr3.Runtime.pdb
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\EntityFramework.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\EntityFramework.SqlServer.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.Google.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\obj\Debug\GoogleChartsUtilization.csproj.CoreCompileInputs.cache
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\obj\Debug\GoogleChartsUtilization.csproj.CopyComplete
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\obj\Debug\codemode-youtube.dll
+C:\Projetos VS\GoogleCharts\GoogleCharts\DataVisualization\obj\Debug\codemode-youtube.pdb

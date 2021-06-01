@@ -1,0 +1,110 @@
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\codemode-youtube.dll.config
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\codemode-youtube.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\codemode-youtube.pdb
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Antlr3.Runtime.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\EntityFramework.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\EntityFramework.SqlServer.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Google.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Web.Infrastructure.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Newtonsoft.Json.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Owin.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.Helpers.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.Mvc.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.Optimization.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.Razor.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.Deployment.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.Razor.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\WebGrease.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Newtonsoft.Json.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.Helpers.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.Mvc.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.Optimization.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.Razor.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.Deployment.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.Razor.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Antlr3.Runtime.pdb
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\EntityFramework.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\EntityFramework.SqlServer.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Google.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\obj\Debug\codemode-youtube.csprojResolveAssemblyReference.cache
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\obj\Debug\codemode-youtube.dll
+D:\AinigmaDev\Apps\codemode-youtube\codemode-youtube\obj\Debug\codemode-youtube.pdb
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\codemode-youtube.dll.config
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\codemode-youtube.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\codemode-youtube.pdb
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Antlr3.Runtime.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\EntityFramework.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\EntityFramework.SqlServer.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Google.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Web.Infrastructure.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Newtonsoft.Json.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Owin.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.Helpers.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.Mvc.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.Optimization.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.Razor.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.Deployment.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.Razor.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\WebGrease.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Newtonsoft.Json.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.Helpers.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.Mvc.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.Optimization.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.Razor.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.Deployment.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\System.Web.WebPages.Razor.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Antlr3.Runtime.pdb
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\EntityFramework.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\EntityFramework.SqlServer.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Google.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\obj\Debug\codemode-youtube.csprojResolveAssemblyReference.cache
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\obj\Debug\codemode-youtube.dll
+D:\AinigmaDev\codemode youtube videos\codemode-youtube\codemode-youtube\obj\Debug\codemode-youtube.pdb
